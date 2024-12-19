@@ -1,15 +1,15 @@
 # BikeStores_Project
 In this project:
 
-Understand the problem
+1. Understand the problem
 
-Collect and gather the data
+2. Collect and gather the data
 
-Clean the data
+3. Clean the data
 
-Explore and analyse the data
+4. Explore and analyse the data
 
-Visualize the information
+5. Visualize the results
 
 ## Excel dashboard
 I added sheet "Dashboard" of the excel file named BikeStores Data and Excel Dashboard  which is the dashboard for this project
