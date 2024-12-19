@@ -1,4 +1,29 @@
 # BikeStores_Project
+### Introduction
+A complete data analytics project walkthrough using SQL, Excel, and Tableau. Generate a dataset using SQL and use the dataset to create a Tableau dashboard, as well as an MS Excel dashboard.
+
+The data is about the orders, products, staff and customers of a bike sales company 
+
+The database contain 6 tables:
+
+ -[production].[brands]
+ 
+ -[production].[categories]
+ 
+ -[production].[products]
+ 
+ -[production].[stocks]
+ 
+ -[sales].[customers]
+ 
+ -[sales].[order_items]
+ 
+ -[sales].[orders]
+ 
+ -[sales].[staffs]
+ 
+ -[sales].[stores]
+
 In this project:
 
 1. Understand the problem
